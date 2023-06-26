@@ -1,7 +1,8 @@
 * {
     margin: 0;
     padding: 0;
-    box-sizing: border-box;  
+    box-sizing: border-box;
+    margin-left: 5px;  
 }
 
 #logo{
@@ -20,10 +21,21 @@ header h1 {
     font-size: 50px;
 }
 
+#date{
+    color: grey;
+    font-size: x-small;
+    margin-bottom: 15px;
+}
+
 
 .undertitle {
     color:grey;
-    margin: 0;
+    margin-top: 10px;
+}
+
+.description{
+font-size: x-small;
+font-weight: bold;
 }
 
 .yellowtext{
@@ -41,7 +53,6 @@ ul {
 table, td, th, tr {
     border-spacing: 0;
     text-align: left;
-    border: 1000px;
   }
 
 thead{
@@ -56,4 +67,22 @@ th{
     width: 1%
 }
 
+#firstfootimage{
+    height: 200px;
+    width: 250px;
+    margin-top: 10px;
+    background-image: url(/img/monitor.jpg);
+    background-repeat: no-repeat;
+    color: white;
+}
+
+#secondfootimage{
+    height: 200px;
+    width: 250px;
+    margin-top: 10px;
+    background-image: url(/img/graph.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    margin-bottom: 20px;
+}
 
