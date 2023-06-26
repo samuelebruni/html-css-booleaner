@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;  
+    margin-left: 15px; 
+    
+}
+#logo{
+    height: 200px;
+    width: 300px;
+}
+
+#pattern{
+    width: auto;
+    height: 150px;
+    background-image: url(/img/pattern.png);
+    background-color: rgb(69, 126, 212);
+}
+
+header h1 {
+    margin-block-start: 0;
+    margin-block-end: 0;
+    font-size: 50px;
+}
+
+#item {
+    margin-block-start: 0;
+    margin-block-end: 0;
+
+}
+
+.undertitle {
+    color:grey;
+    margin: 0;
+}
+
+header p{
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
