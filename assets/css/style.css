@@ -13,7 +13,7 @@
 #pattern{
     width: auto;
     height: 150px;
-    background-image: url(/img/pattern.png);
+    background-image: url(../img/pattern.png);
     background-color: rgb(69, 126, 212);
 }
 
@@ -71,7 +71,7 @@ th{
     height: 200px;
     width: 250px;
     margin-top: 10px;
-    background-image: url(/img/monitor.jpg);
+    background-image: url(../img/monitor.jpg);
     background-repeat: no-repeat;
     color: white;
 }
@@ -80,7 +80,7 @@ th{
     height: 200px;
     width: 250px;
     margin-top: 10px;
-    background-image: url(/img/graph.jpg);
+    background-image: url(../img/graph.jpg);
     background-repeat: no-repeat;
     color: white;
     margin-bottom: 20px;
